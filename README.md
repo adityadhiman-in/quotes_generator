@@ -5,11 +5,9 @@
 [![GitHub stars](https://img.shields.io/github/stars/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/notes_app_javascript/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/notes_app_javascript/network)
 
-An awesome and user-friendly Notes App built using HTML, CSS, and JavaScript. This app allows users to create, edit, and delete notes effortlessly.
-
 ![Quote Generator Preview](./quote.png)
 
-This is a simple web-based Quote Generator that fetches and displays random quotes from an API. Users can also share the quotes via WhatsApp.
+This is a beautiful web-based Quote Generator that fetches and displays random quotes from an API. Users can also share the quotes via WhatsApp.
 
 ## Features
 
