@@ -26,7 +26,7 @@ This is a simple web-based Quote Generator that fetches and displays random quot
 
 ## Demo
 
-Check out the live demo of the project [here](https://your-username.github.io/quote-generator/).
+Check out the live demo of the project [here](https://adityadhiman-in.github.io/quotes_generator/).
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ You need a modern web browser to run the application.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/quote-generator.git
+   git clone https://github.com/adityadhiman-in/quotes_generator.git
    ```
 
 2. Navigate into the project directory:
